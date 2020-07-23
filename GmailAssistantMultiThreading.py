@@ -1,4 +1,5 @@
-#By Adam Le Roux, Final Version WITH THREADING, requires VENV (JmasAlertsVenv)
+
+#Copyright (c) 2020 Adam Le Roux
 
 
 from __future__ import print_function
